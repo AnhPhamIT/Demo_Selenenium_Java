@@ -1,0 +1,11 @@
+2020-04-20 17:57:44 [TestNG-test=demo suite-1] INFO  DEMO - STEP 1: Select Show My Result
+2020-04-20 17:57:47 [TestNG-test=demo suite-1] INFO  DEMO - Make sure at least 3 cards are being displayed 
+2020-04-20 17:57:50 [TestNG-test=demo suite-1] INFO  DEMO - STEP 2: Filter by FPG Insurance
+2020-04-20 17:57:52 [TestNG-test=demo suite-1] INFO  DEMO - Before filer - no of FPG Insurance card 2
+2020-04-20 17:57:54 [TestNG-test=demo suite-1] INFO  DEMO - After filter - no of FPG Insurance card 2
+2020-04-20 17:57:54 [TestNG-test=demo suite-1] INFO  DEMO - STEP 3: Sorting by Price: High to low
+2020-04-20 17:57:57 [TestNG-test=demo suite-1] INFO  DEMO - List Price after sorting
+2020-04-20 17:57:59 [TestNG-test=demo suite-1] INFO  DEMO - STEP 4: Filter with Personal Accident
+2020-04-20 17:57:59 [TestNG-test=demo suite-1] INFO  DEMO - Select Slider to 1500000
+2020-04-20 17:58:01 [TestNG-test=demo suite-1] INFO  DEMO - STEP 5: Select Destination to Africa
+2020-04-20 17:58:01 [TestNG-test=demo suite-1] INFO  DEMO - STEP 6: Select Travel Start Date
